@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hello</string>
+    <string name="key_world">こんにちは、世界！</string>
+    <string name="btnCurrent">現在時刻</string>
 </resources>
