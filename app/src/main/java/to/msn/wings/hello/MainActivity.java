@@ -19,8 +19,8 @@ public class MainActivity extends AppCompatActivity {
 //        レイアウトを整えている。
     }
 
-    public void btnCurrent_onClick(View view) {
-        TextView txt = findViewById(R.id.txtResult);
-        txt.setText(new Date().toString());
-    }
+//    public void btnCurrent_onClick(View view) {
+//        TextView txt = findViewById(R.id.txtResult);
+//        txt.setText(new Date().toString());
+//    }
 }
